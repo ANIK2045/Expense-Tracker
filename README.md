@@ -27,7 +27,6 @@ The Expense-Tracker database diagram visually represents the structure of the da
 - [JWT Authentication](#jwt-authentication)
 - [Swagger Documentation](#swagger-documentation)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
